@@ -1,2 +1,1 @@
-# Hello-World
-My first repository
+The reason your code is 44% covred is because of other test claesses. If there are existing test class that test a method or function on the same object, it is possible that you can get some amout of coverge. But unless you have a test class for each and every apex code it may not be fully covred.
